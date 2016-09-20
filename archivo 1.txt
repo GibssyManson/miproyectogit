@@ -1,1 +1,2 @@
 Archivo 1 ahora creado dentro de PROYECTOGIT
+DIR
